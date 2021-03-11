@@ -1,0 +1,6 @@
+setup.py
+CiscoSecurityDevice/CiscoSecurityDevice.egg-info/PKG-INFO
+CiscoSecurityDevice/CiscoSecurityDevice.egg-info/SOURCES.txt
+CiscoSecurityDevice/CiscoSecurityDevice.egg-info/dependency_links.txt
+CiscoSecurityDevice/CiscoSecurityDevice.egg-info/requires.txt
+CiscoSecurityDevice/CiscoSecurityDevice.egg-info/top_level.txt
