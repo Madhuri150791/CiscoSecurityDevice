@@ -1,4 +1,4 @@
-#APIDeviceDetail
+# CiscoSecurityDevice
 
 
 This is a wrapper which provides a unique interface to the Cisco's FMC and Cisco's ISE Rest API, to intereract in a common way.
@@ -14,7 +14,7 @@ pip install CiscoSecurityDevice
 ```
 
 
-#Usage
+# Usage
 
 To use the above wrapper:
 
