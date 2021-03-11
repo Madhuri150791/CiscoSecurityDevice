@@ -6,7 +6,7 @@ Home-page: UNKNOWN
 Author: Madhuri Dewangan
 Author-email: madewang@cisco.com
 License: UNKNOWN
-Description: #APIDeviceDetail
+Description: # CiscoSecurityDevice
         
         
         This is a wrapper which provides a unique interface to the Cisco's FMC and Cisco's ISE Rest API, to intereract in a common way.
@@ -22,7 +22,7 @@ Description: #APIDeviceDetail
         ```
         
         
-        #Usage
+        # Usage
         
         To use the above wrapper:
         
@@ -43,7 +43,7 @@ Description: #APIDeviceDetail
         
         > Note: Currently wrapper can server for ISE and FMC only
 Platform: UNKNOWN
-Classifier: Programming Language :: Python 3.7
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
 Classifier: Operating System :: OS Independent
-Classifier: License :: GNU General Public License v3.0
+Classifier: Programming Language :: Python :: 3.7
 Description-Content-Type: text/markdown

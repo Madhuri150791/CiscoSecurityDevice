@@ -9,13 +9,11 @@ setup(
     author='Madhuri Dewangan',
     author_email='madewang@cisco.com',
     package_dir={'':'CiscoSecurityDevice'},
-    classifiers=[
-        "Programming Language :: Python 3.7",
-        "Operating System :: OS Independent",
-        "License :: GNU General Public License v3.0",
-    ],
     long_description=long_description,
     long_description_content_type="text/markdown",
     install_requires=["requests","ISE","fireREST"],
+    classifiers=["License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+                 "Operating System :: OS Independent",
+                 "Programming Language :: Python :: 3.7"]
 
 )
